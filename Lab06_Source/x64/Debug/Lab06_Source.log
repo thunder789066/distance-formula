@@ -1,0 +1,5 @@
+﻿  Lab06.cpp
+C:\Users\Christina\Source\Repos\Lab06\Lab06_Source\Lab06.cpp(25,39): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Christina\Source\Repos\Lab06\Lab06_Source\Lab06.cpp(29,34): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\Christina\Source\Repos\Lab06\Lab06_Source\Lab06.cpp(30,16): warning C4244:  'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  Lab06_Source.vcxproj -> C:\Users\Christina\Source\Repos\Lab06\x64\Debug\Lab06_Source.exe
